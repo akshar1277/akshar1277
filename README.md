@@ -8,11 +8,11 @@
 
 - 🔭 I’m currently working as **freelancer.**
 
-- 🌱 I’m currently learning **react and tailwind css.**
+- 🌱 I’m currently learning **MERN stack.**
 
-- 👯 I’m looking to collaborate on **fullstack projects.**
+- 👯 I’m looking to collaborate on **Fullstack projects.**
 
-- 🤝 I’m looking for help with **react + django projects.**
+- 🤝 I’m looking for help with **react + django,MERN projects.**
 
 - 👨‍💻 All of my projects are available at <a href="https://github.com/akshar1277">Github Handle</a>
 
