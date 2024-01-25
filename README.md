@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working as **freelancer.**
 
-- 🌱 I’m currently learning **MERN stack.**
+- 🌱 I’m currently learning **Flask,Data Science.**
 
 - 👯 I’m looking to collaborate on **Fullstack projects.**
 
