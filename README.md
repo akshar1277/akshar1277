@@ -16,7 +16,7 @@
 
 - 👨‍💻 All of my projects are available at <a href="https://github.com/akshar1277">Github Handle</a>
 
-- 💬 Ask me about **MERN,DSA,C++ ,Python,Django,API**
+- 💬 Ask me about **REACT,DSA,C++ ,Python,Django,API**
 
 - 📫 How to reach me **bhalani.akshar1277@gmail.com**
 
