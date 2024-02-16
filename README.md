@@ -8,11 +8,11 @@
 
 - 🔭 I’m currently working as **freelancer.**
 
-- 🌱 I’m currently learning **Flask,Data Science.**
+- 🌱 I’m currently learning **PyTorch,Deep Learning,Data Science.**
 
-- 👯 I’m looking to collaborate on **Fullstack projects.**
+- 👯 I’m looking to collaborate on **Fullstack projectsm,AI/ML/Deep Learning.**
 
-- 🤝 I’m looking for help with **react + django,MERN projects.**
+- 🤝 I’m looking for help with **react + django,computer vision .**
 
 - 👨‍💻 All of my projects are available at <a href="https://github.com/akshar1277">Github Handle</a>
 
